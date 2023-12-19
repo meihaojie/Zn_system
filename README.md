@@ -1,9 +1,12 @@
 # Zn interatomic potential 
-This repository presents the Moment Tensor Potential for the Zn unary system.
+This repository presents the training datasets and the derived Moment Tensor Potential for the Zn unary system.
 
-You are advised to cite the following paper if the potential is used in your publications:
+You are advised to cite the following paper if the dataset and/or the potential are used in your publications:
 
 > Haojie Mei, Luyao Cheng, Liang Chen, Feifei Wang, Jinfu Li, Lingti Kong. Development of machine learning interatomic potential for zinc. Computational Materials Science 233(30):112723, 2024. https://doi.org/10.1016/j.commatsci.2023.112723
+
+## Training set (Fitting\_data)
+The training dataset that can be used readily by the MLIP.
 
 ## The developed moment tensor potentials (MTP)
 MTP potential: **Zn.mtp**  
