@@ -18,3 +18,6 @@ Haojie Mei meihaojie@sjtu.edu.cn
 
 Lingti Kong konglt@sjtu.edu.cn
 
+##License
+Each file included in this repository is licensed under the CC BY License.
+
