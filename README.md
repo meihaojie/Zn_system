@@ -19,5 +19,5 @@ Haojie Mei meihaojie@sjtu.edu.cn
 Lingti Kong konglt@sjtu.edu.cn
 
 ## License
-Each file included in this repository is licensed under the CC BY License.
+Each file included in this repository is licensed under the [CC BY License](https://github.com/meihaojie/Zn_system/blob/main/LICENSE).
 
